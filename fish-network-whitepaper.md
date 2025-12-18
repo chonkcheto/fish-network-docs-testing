@@ -288,7 +288,7 @@ FishSchool.sol - Master contract for each investment club
 * Manages member registry and permissions
 * Tracks capital contributions and ownership percentages
 * Enforces governance rules and voting mechanisms
-* Routes capital according to 50/40/10 split model
+* In the future liquidity model, routes capital according to a 50/40/10 split
 * Handles distributions from liquidity events
 
 FishEscrow.sol - Secure capital custody during evaluation period

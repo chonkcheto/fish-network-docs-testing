@@ -181,7 +181,9 @@ This will ultimately help streamline retail crowdfunding, and activate a new net
 * **Capital use:** ≥80% deployed to investments; ≤20% admin/ops (front‑loaded) to cover early costs.
 * **Liquidity:** Shared liquidity layer enables early redemptions (subject to fees/lockups per school).
 
-#### Option B — "50/40/10 Split" (points + escrow)
+#### Future Option B — "50/40/10 Split" (points + escrow)
+
+*This is a **future-phase liquidity model** under exploration and is **not part of the current live product**.*
 
 * **50%** to escrow (USDC) to accrue **Fish Points** and network rewards during a 21‑day window.
 * **40%** allocated to voted‑in startups.

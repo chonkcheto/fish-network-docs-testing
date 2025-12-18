@@ -9,7 +9,7 @@ title: Liquidity, Optionality, Diversification
 **Content Outline:**
 
 * Shared liquidity + synthetic exposure.
-* Multiple liquidity structures (80/20 vs. 50/40/10).
+* Multiple liquidity structures (current 80/20; future 50/40/10).
 * Shorter lockups, smoother redemptions.
 * How optionality strengthens investor confidence.
 
