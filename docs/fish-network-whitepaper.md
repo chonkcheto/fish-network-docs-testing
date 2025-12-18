@@ -738,7 +738,7 @@ Value Proposition:
 * Activate community capital beyond traditional fund structure
 * Test emerging managers at low cost and risk
 * Build ecosystem presence and deal flow
-* Engage smaller LPs (<$25K checks) efficiently
+* Engage smaller LPs (\<$25K checks) efficiently
 * Create feeder system for larger funds
 
 #### 8.4 Startups (Capital Seekers)
