@@ -12,7 +12,7 @@ Consider:
 * **Transparent Crowdfunding Pools**: Startups can raise from a broad base of investors, but instead of each investor wiring into a black box, funds sit in escrow contracts, only released if minimum thresholds are met and milestones achieved.
 * **Community-Governed Capital**: Rather than a handful of gatekeepers deciding which founders get backed, communities can form micro-funds around niches — climate tech, local real estate, AI research — with governance and returns encoded directly on-chain.
 
-![Barracuda Fish School](/.gitbook/assets/barracuda_fish_school_1050x700.avif)
+![Barracuda Fish School](/img/gitbook/barracuda_fish_school_1050x700.avif)
 
 The irony is that crypto has not failed because its technology is weak — but because its focus has been misdirected. Chasing the dream of "new money" has overshadowed the reality of what crypto can uniquely provide: programmable, enforceable, borderless agreements.
 

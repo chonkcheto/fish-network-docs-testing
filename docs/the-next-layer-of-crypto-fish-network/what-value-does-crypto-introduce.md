@@ -6,7 +6,7 @@ title: What value does Crypto introduce
 
 ## What value does Crypto bring, if any, to our financial systems?
 
-![Crypto Value](/.gitbook/assets/crypto2.avif)
+![Crypto Value](/img/gitbook/crypto2.avif)
 
 **The answer is this:** Our traditional fiat currency models, markets, and products enable us to participate in economic goods and services. Cryptology makes this system go even further. To its fullest extent.
 

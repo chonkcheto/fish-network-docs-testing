@@ -12,7 +12,7 @@ More recently, AI-driven product teams and crypto protocols are positioned to ca
 
 Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale venture investment communities while cultivating investor trust and reputation through transparent on-chain systems.
 
-![Fish Network Overview](/.gitbook/assets/0%20(1).png)
+![Fish Network Overview](/img/gitbook/0%20(1).png)
 
 ## **Why Current Infrastructure Falls Short In this Era**
 
@@ -45,7 +45,7 @@ Offering future proof entity management tools:
 
 **Stablecoins:** As of Q4 2024, the USDC share on the Base network was over $10 billion¹.
 
-![Base Network Stats](/.gitbook/assets/1%20(1).png)
+![Base Network Stats](/img/gitbook/1%20(1).png)
 
 Capturing just 1% of this market would equal a TVL of $10M locked in the Fish Network smart contract.
 
@@ -76,7 +76,7 @@ Small teams can reach outsized outcomes when three layers align:
 
 On-chain formation + compliance tools can make managing multiple startups or funds as simple as switching tabs in a dashboard.
 
-![Dashboard Preview](/.gitbook/assets/2%20(1).png)
+![Dashboard Preview](/img/gitbook/2%20(1).png)
 
 ## **The Fish Network Solution**
 
@@ -110,7 +110,7 @@ Altogether, the personal _identity verification, business accounts, and Custody_
 4. On distribution/liquidity events, Organizer coordinates **private shares → USDC**; smart contracts update balances/points.
 5. Optional redemptions subject to **3‑week window** and per‑school lockups (some up to **1 year**).
 
-![Liquidity Flow](/.gitbook/assets/3%20(1).png)
+![Liquidity Flow](/img/gitbook/3%20(1).png)
 
 The Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven investment clubs ("Fish Schools") into software‑enabled, tokenized micro‑funds with shared liquidity.
 
@@ -225,7 +225,7 @@ The Fish Network flips the syndicate & crowdfunding model on its head. Instead o
 
 The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
 
-![Fish Network Platform](/.gitbook/assets/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
+![Fish Network Platform](/img/gitbook/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
 
 Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to trust their gut or leverage the wisdom of the crowd.
 

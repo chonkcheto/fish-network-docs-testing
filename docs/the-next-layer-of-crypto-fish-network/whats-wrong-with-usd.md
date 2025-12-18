@@ -10,7 +10,7 @@ Over the past decade traditional fiat systems have only gotten upgrades, taking 
 
 And it all works largely by one simple scaling law: In our current global market fiat systems, the more traditional fiat currency we are allocated, the further our reach within those global market fiat systems.
 
-![USD Currency](/.gitbook/assets/usd.avif)
+![USD Currency](/img/gitbook/usd.avif)
 
 So what's wrong with USD? What's wrong with Capital One? What's wrong with asset allocation via good ol' US Dollars?
 

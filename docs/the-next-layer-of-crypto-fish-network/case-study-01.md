@@ -9,7 +9,7 @@ title: Case Study 01
 * You and five friends want to pool $50,000 to invest in early-stage startups.
 * In fiat, you'd open a bank account, draft an LLC operating agreement, hire a lawyer, and manually enforce the rules.
 
-![Case Study](/.gitbook/assets/crypto.avif)
+![Case Study](/img/gitbook/crypto.avif)
 
 * ### In a smart contract world:
 

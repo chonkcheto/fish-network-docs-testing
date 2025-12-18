@@ -5,7 +5,7 @@ description: Why we don't need more Crypto currencies, We need Crypto smart cont
 
 # The Next Layer of Crypto, Fish Network
 
-![Fish Network Vision](/.gitbook/assets/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
+![Fish Network Vision](/img/gitbook/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
 
 <p align="center">Why does Crypto keep failing?</p>
 

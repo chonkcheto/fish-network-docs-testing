@@ -570,7 +570,7 @@ Fish Network brings targeted advantages for angel investors and emerging manager
 
 ### 7. Legal & Compliance Framework
 
-#### 7.1 Entity Structure ![](<.gitbook/assets/image (4).png>)
+#### 7.1 Entity Structure ![Entity structure overview](/img/gitbook/image%20(4).png)
 
 Upon approval of an investment proposal, the platform executes the investment using a **nominee-based structure** that mimics a traditional CrowdSAFE instrument, but instead gives investors voting rights, amongst other protections, upon a trigger event that warrants a conversion into traditional equity.
 
