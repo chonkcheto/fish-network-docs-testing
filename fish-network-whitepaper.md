@@ -568,7 +568,7 @@ Fish Network brings targeted advantages for angel investors and emerging manager
 
 ### 7. Legal & Compliance Framework
 
-#### 7.1 Entity Structure ![](<.gitbook/assets/image (4).png>)
+#### 7.1 Entity Structure
 
 Customers will form a Master Series LLC on platform owned by their existing entity. If the customer is an individual, they will be prompted to form a holding company(optional), which can be leveraged as a "GP Stakes" management entity, or a minimum viable venture studio.
 
@@ -577,6 +577,8 @@ Customers will form a Master Series LLC on platform owned by their existing enti
 Fish Network provides flexibility in structuring to accomodate a broad set of use cases for compliant on-chain capital formation. Fish Schools are currently Member-Managed LLCs with a Nominee Delegate(defined below).
 
 Upon approval of an investment proposal, the platform executes the investment using a **nominee-based structure** that mimics a traditional CrowdSAFE instrument, but instead gives investors voting rights, amongst other protections, upon a trigger event that warrants a conversion into traditional equity.
+
+ ![](<.gitbook/assets/image (4).png>)
 
 * **Nominee:** A Fish School LLC(typically the Master, but can be the individual Series) that holds legal title to the investment on behalf of all Fish Schools and their respective members.
 * **Beneficial Owners:** Individual Fish School Series LLC retains beneficial ownership interests.
