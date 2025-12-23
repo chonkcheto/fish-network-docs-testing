@@ -72,7 +72,6 @@ We seek to provide investors with diversified exposure to early-stage venture ca
 
 >“The smartest capital in the next decade won’t just be fast; it will be collective. Iron Key Investment Club exists to give investors an edge, not by chasing trends but by compounding intelligence. We’re not building a club. We are building the infrastructure for a new >class of investor. One that earns not just returns, but reputation, network, and leverage.
 
-\
 >"We’re rewriting how capital is coordinated in the age of AGI and blockchain. Every member becomes a stakeholder, a contributor, and a decision-maker. Because the future of venture isn’t gated - it’s governed by those who build it.”
 
 **Joseph Argiro - Founder and CEO, Iron Key Capital**
@@ -119,6 +118,8 @@ Leveraging its investment club structure, Fish Network is uniquely positioned to
 **- Christopher Dixon, General Partner at a16z**
 
 Dollar Cost Averaging(DCA) has previously only been applied in practice to public markets investing. As Fish Network, we extend this concept to private markets, enabling retail investors seamless access to sophisticated portfolio construction tools and techniques.
+
+
 
 If you’d like to learn more about joining Iron Key’s investment club, please [contact us here](https://airtable.com/appfCDlkorF5FL3VZ/pagWgSGlXalE6cwdd/form). The minimum check size is $10k USD.
 
