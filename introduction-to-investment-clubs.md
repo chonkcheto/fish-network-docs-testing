@@ -2,7 +2,7 @@
 
 Investment Clubs are groups of people who come together to pool capital, share ideas, and invest collaboratively across various asset classes. Investment clubs provide a simple, cost effective vehicle for investor communities and new fund managers to build and activate networks.
 
-Unknown to many average investors, Investment Clubs have existed for centuries. The most popular investment club that most people will recognize is Jim Cramer on CNBC1.
+Unknown to many average investors, Investment Clubs have existed for centuries. The most popular investment club that most people will recognize is Jim Cramer on CNBC, which is non-capital pooling club.
 
 In summary, there are two types of investment clubs that the SEC recognizes2, and the difference lies in how the capital is deployed.
 
@@ -20,12 +20,6 @@ Most investment clubs are member-driven, invite-only, and operated democraticall
 * **Liquidity is non-existent:** Early-stage VC locks capital for years with little to no flexibility or secondary market.
 * **Coordination is messy:** Founders, investors, and operators lack efficient tools to collaborate, track investments, and scale networks.
 * **Transparency is missing:** Critical investment data is siloed or opaque, leaving members with little visibility into how decisions are made.
-
-
-
-“Though tempting, trying to time the market is a loser’s game. $10,000 continuously invested in the market over the past 20 years grew to $63,636. If you missed just the best 30 days, your investment was reduced to $11,484.1”&#x20;
-
-**- Christopher Dixon, General Partner at a16z**
 
 ### History of Web3 Community Driven Investing
 
@@ -119,11 +113,15 @@ Iron Key’s community brings together five core personas:<br>
 ### &#x20;Conclusion
 
 \
-Underwhelmed by web3 innovation to date in compliant capital formation, Iron Key has decided to throw its hat in the ring; building software to support its investment club and others like it.
+Underwhelmed by web3 innovation to date in compliant capital formation, Iron Key has decided to throw its hat in the ring by creating Fish Network; software to bring emerging managers on-chain through community enablement.
 
-Leveraging its club structure, Iron Key is uniquely positioned to unlock active investor capital at the margin by creating an ecosystem to serve the operational and capital needs of Seed stage startups. This flywheel becomes sustainable by offering investors a more capital efficient and differentiated diversification approach, all while open-sourcing a mental framework & mindset for the next generation of venture capitalists and angel investors.
+Leveraging its investment club structure, Fish Network is uniquely positioned to unlock active investor capital at the margin by creating an ecosystem to serve the operational and capital needs of Seed stage startups. This flywheel becomes sustainable by offering investors a more capital efficient and differentiated diversification approach, all while developing a breeding ground for emerging managers to drive thesis-driven innovation.
 
-Leveraging its investment club structure, Iron Key is uniquely positioned to unlock active investor capital at the margin by creating an ecosystem to serve the operational and capital needs of Seed stage startups. This flywheel becomes sustainable by offering investors a more capital efficient and differentiated diversification approach, all while developing a breeding ground for thesis-driven innovation.
+“Though tempting, trying to time the market is a loser’s game. $10,000 continuously invested in the market over the past 20 years grew to $63,636. If you missed just the best 30 days, your investment was reduced to $11,484.1”&#x20;
+
+**- Christopher Dixon, General Partner at a16z**
+
+Dollar Cost Averaging(DCA) has previously only been applied in practice to public markets investing. As Fish Network, we extend this concept to private markets, enabling retail investors seamless access to sophisticated portfolio construction tools and techniques.
 
 If you’d like to learn more about joining Iron Key’s investment club, please [contact us here](https://airtable.com/appfCDlkorF5FL3VZ/pagWgSGlXalE6cwdd/form). The minimum check size is $10k USD.
 
