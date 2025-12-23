@@ -264,9 +264,10 @@ A Fish Shoal is a **non-capital pooling** community-driven investment club struc
 4. Smart contracts prove membership, enforce compensation transparency, and automate payment distributions
 5. Members can provide services to startups in exchange for compensation
 6. Shoal Leads may manage or adminster multiple Fish Schools
-7. Legal compliance is built-in through proper entity structure and regulatory adherence
 
-#### 3.5 The Fish Network Flywheel
+#### 3.6 The Fish Network Flywheel
+
+Legal compliance is built-in through proper entity structure and regulatory adherence.
 
 1. Businesses create Fish Shoals to leverage community to increase reach and impact
 2. Shoals help appoint Fish School Organizers who create Fish Schools focused on specific theses or sectors
