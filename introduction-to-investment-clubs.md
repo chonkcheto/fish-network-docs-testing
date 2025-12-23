@@ -4,7 +4,7 @@ Investment Clubs are groups of people who come together to pool capital, share i
 
 Unknown to many average investors, Investment Clubs have existed for centuries. The most popular investment club that most people will recognize is Jim Cramer on CNBC, which is non-capital pooling club.
 
-In summary, there are two types of investment clubs that the SEC recognizes2, and the difference lies in how the capital is deployed.
+In summary, there are two types of investment clubs that the SEC recognizes, and the difference lies in how the capital is deployed.
 
 * **Capital Pooling Clubs -** Investors pool their capital together into a central location which enables collective decision making opportunities
   * This allows investors to deploy “wisdom of the crowd3” strategies, rather than relying on 1-2 General Partners or Managers to make decisions on behalf of the investors. Investors maintain partial decision control over their capital on a capital-weighted basis.
@@ -47,7 +47,7 @@ However, in 2025, Iron Key believes there are various tailwinds that will suppor
 ### Introducing Iron Key Capital’s Investment Club
 
 \
-Iron Key Venture Partners LLC (i.e Investment Club) brings together professionals, emerging founders, VCs, and angel investors to invest in the next wave of emerging technology that sits at the intersection of blockchain and AGI\*.
+Iron Key Capital Ventures Series 1 LLC (i.e Investment Club) brings together professionals, emerging founders, VCs, and angel investors to invest in the next wave of emerging technology that sits at the intersection of blockchain and AGI\*.
 
 Our club structure brings a new sustainable model to community driven early stage investing, while providing the necessary services required to scale seed stage startups.
 
@@ -80,9 +80,8 @@ We seek to provide investors with diversified exposure to early-stage venture ca
 ### Why Join Iron Key Capital?
 
 \
-Token Launch (Coming Soon)&#x20;
 
-Iron Key is preparing to launch its native token, backed by the profit interests of its Investment Club, Iron Key Ventures Partners LLC, a member-managed Wyoming LLC.
+Iron Key is preparing to launch its native token, backed by the profit interests of its Investment Club, Iron Key Capital Ventures Series 1 LLC, a member-managed Wyoming LLC.
 
 #### Our Investment Thesis
 
