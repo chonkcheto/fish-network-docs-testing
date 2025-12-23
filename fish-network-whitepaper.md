@@ -235,7 +235,6 @@ Furthermore, Fish Network provides its Fish Schools with a built-in [Nominee Rid
 | Platform curates deals                | Community curates deals              |
 
 
-
 | **Traditional VC**          | **Fish Network**            |
 | --------------------------- | --------------------------- |
 | Concentrated ownership      | Distributed from day one    |
@@ -244,7 +243,6 @@ Furthermore, Fish Network provides its Fish Schools with a built-in [Nominee Rid
 | GP makes all decisions      | Community governance        |
 | Limited fund sizes          | Unlimited scaling potential |
 
-vs. Syndicate Platforms:
 
 | **Syndicate Model**      | **Fish Network**            |
 | ------------------------ | --------------------------- |
