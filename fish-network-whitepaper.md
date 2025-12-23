@@ -143,6 +143,8 @@ Fish Network addresses each of these constraints through blockchain infrastructu
 
 ### 3. Fish Network Solution
 
+Fish Network introduces a dual-entity and dual token model to facilitate investor community engagement and social interaction. Fish Schools pool capital together and use Erc-20M functionality to track pro-rata ownership over investments. Fish Shoals do not pool capital for investment, but instead use Erc-721M functionality to monetize or gate-access to additional non-investment, social coordination benefits to its members.
+
 #### 3.1 Core Innovation: Fish Schools
 
 A Fish School is a community-driven investment club structured as a Series LLC, where:
@@ -192,7 +194,7 @@ Distribution + Portfolio Support Phase:
 * Fish Points rewards for successful picks, building member reputation
 
 **Future Use Case:** Rolling "funds" as investment clubs
-**Future Enhancement:** Quadratic voting
+**Future Enhancement:** Quadratic voting, equity-based voting
 
 #### 3.3 Fish School Fee Structure
 
@@ -220,7 +222,7 @@ For Investors:
 * No performance fees to Fish Network (only to organizers if applicable)
 * Gas fees only for on-chain transactions (minimal on Base L2)
 
-#### 3.4 Key Differentiators
+#### 3.4 Key Differentiators for Fish Schools
 
 Instead of CrowdSAFEs, which strip investors of voting rights(similar to traditional SPVs), Fish Network introduces a nominee structure to streamline admin, and a nominee delegate(typically an individual) to simplify accountability, distribute workload, and give power to the "fish."
 
@@ -252,15 +254,28 @@ Furthermore, Fish Network provides its Fish Schools with a built-in [Nominee Rid
 | Informal structures      | Legally compliant entities  |
 | Leader carries all risk  | Distributed decision-making |
 
+#### 3.5 Fish Shoals
+
+A Fish Shoal is a **non-capital pooling** community-driven investment club structured as a Series LLC, where:
+
+1. Access is gated or monetized by NFTs or traditional SaaS by investors who share an investment sector interest
+2. Members can propose, curate and vet deal flow in their domain of expertise
+3. Community members vote on which members should receive Organizer status
+4. Smart contracts prove membership, enforce compensation transparency, and automate payment distributions
+5. Members can provide services to startups in exchange for compensation
+6. Shoal Leads may manage or adminster multiple Fish Schools
+7. Legal compliance is built-in through proper entity structure and regulatory adherence
+
 #### 3.5 The Fish Network Flywheel
 
-1. Organizers create Fish Schools focused on specific theses or sectors
-2. Investors join schools aligned with their interests and expertise
-3. Startups pitch to relevant Fish Schools, competing for capital
-4. Community votes fund the best opportunities quickly
-5. Successful investments create returns and reputation (Fish Points)
-6. Top performers attract more capital and better deal flow
-7. Network effects strengthen as ecosystem grows
+1. Businesses create Fish Shoals to leverage community to increase reach and impact
+2. Shoals help appoint Fish School Organizers who create Fish Schools focused on specific theses or sectors
+4. Investors join schools aligned with their interests and expertise
+5. Startups pitch to relevant Fish Schools, competing for capital
+6. Community votes fund the best opportunities quickly
+7. Successful investments create returns and reputation (Fish Points)
+8. Top performers attract more capital and better deal flow
+9. Network effects strengthen as ecosystem grows
 
 This creates a virtuous cycle where quality begets quality, and the platform becomes increasingly valuable to all participants.
 
