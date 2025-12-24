@@ -421,6 +421,8 @@ Fish Agents are designed to increase active participation by reducing friction (
 
 ### 5. Future Economic System of Engineered Liquidity
 
+< this model will be available to non-US Citizens only
+
 #### 5.1 Liquidity in Private Markets
 
 Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market approach to introduce liquidity in traditional assets for retail investors. By sharing and borrowing liquidity across schools, Fish Network is able to introduce distinct tradeoffs, giving individual investors more control and choice over their investment decisions. Without Fish Network, these liquidity options or tradeoffs would otherwise be impossible or impractical at the individual asset or issuer level.
@@ -1216,8 +1218,6 @@ The water's fine. Let's swim together.
 
 ### Appendix A: Glossary
 
-Base L2: Coinbase's Ethereum Layer 2 blockchain optimized for consumer applications
-
 Fish: Individual investor participating in Fish Schools
 
 Fish Network: The platform enabling creation and operation of Fish Schools and Shoals
@@ -1232,11 +1232,15 @@ Fish Shoal: Non-capital pooling investment club that facilitates a shared commun
 
 Shoal Leader: B2B entity overseeing multiple Fish Schools with shared services
 
-Reg CF: SEC Regulation Crowdfunding allowing up to $5M raises from retail investors
+FishLP Contract: Open smart contract that holds USDC; facilitates the shared liquidity layer across Fish Schools
+
+Reg CF: SEC Regulation Crowdfunding allowing up to $5M raises from retail non-accredited investors
 
 Series LLC: Legal structure where each "series" operates as separate entity with liability protection
 
 USDC: USD Coin, dollar-pegged stablecoin used for all platform transactions
+
+Base L2: Coinbase's Ethereum Layer 2 blockchain optimized for consumer applications
 
 ***
 
