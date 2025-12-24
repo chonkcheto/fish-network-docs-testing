@@ -28,7 +28,7 @@ Fish Network includes an agentic AI layer that reduces participation friction wh
 
 #### Key Innovation
 
-Unlike traditional syndicate models where investors commit per deal, Fish Schools operate with pre-funded capital pools. This eliminates deal-by-deal friction, ensures serious commitment, and allows organizers to move quickly when opportunities arise. This provides investors with a more capital efficient deployment mechanism, that can help facilitate any type of social capital formation.
+Unlike traditional syndicate models where investors commit per deal, Fish Schools operate with pre-funded capital pools. This eliminates deal-by-deal friction, ensures serious commitment, and allows organizers to move quickly when opportunities arise. This provides investors with a more capital efficient deployment mechanism, that can help facilitate any type of social capital formation use case.
 
 #### Market Opportunity
 
