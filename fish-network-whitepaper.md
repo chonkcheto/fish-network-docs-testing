@@ -1126,10 +1126,10 @@ Fish Network quantifies success through a combination of traditional investment 
 *   Secondary Metrics:&#x20;
 
     * % of Fish Schools that return 1x capital to investors
-    * Number of successful liquidity events and $ amount of the distributions
+    * Number of successful liquidity events and $ amount of distributions
     * % of startups with a subsequent success signal (ex. Series A raised, revenue milestones achieved)
 
-    #### 11.5 Competitive Landscape
+#### 11.5 Competitive Landscape
 
 Direct Competitors:
 
