@@ -1148,7 +1148,7 @@ Syndicate Platforms:
 DAO Investment Platforms:
 
 * Examples: Syndicate Protocol, Spring.net
-* Weakness: Regulatory uncertainty, limited compliance infrastructure
+* Weaknesses: Regulatory uncertainty, limited compliance infrastructure
 * Fish Network advantage: Compliant entity structure, qualified custody
 
 Indirect Competitors:
@@ -1162,8 +1162,10 @@ Traditional VC Funds:
 Public Markets:
 
 * Examples: Robinhood, Coinbase retail trading
-* Weakness: Different asset class (public equities/crypto vs. private startups)
-* Fish Network advantage: Leverage hybrid vehicles that mix private and public markets for diversification opportunities; ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
+* Weaknesses: Onerous reporting requirements; investor focus on profitability instead of scaling innovative public goods
+* Fish Network advantages:
+*    - Leverage hybrid vehicles that mix private and public markets for diversification opportunities
+     - ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
 
 ***
 
