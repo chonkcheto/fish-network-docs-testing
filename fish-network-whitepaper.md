@@ -143,7 +143,7 @@ Fish Network addresses each of these constraints through blockchain infrastructu
 
 ### 3. Fish Network Solution
 
-Fish Network introduces a dual-entity and dual token model to facilitate investor community engagement and social interaction. Fish Schools pool capital together and use Erc-20 functionality to track pro-rata ownership over investments. Fish Shoals do not pool capital for investment, but instead use Erc-721M functionality to monetize or gate-access to additional non-investment, social coordination benefits to its members.
+Fish Network introduces a dual-entity and dual token model to facilitate investor community engagement and social interaction. Fish Schools pool capital together and use Erc-20 functionality to track pro-rata ownership over investments. Fish Shoals do not pool capital for investment, but instead use Erc-721M functionality to monetize and/or gate-access to investments while providing additional social coordination benefits for its members.
 
 #### 3.1 Core Innovation: Fish Schools
 
@@ -259,14 +259,15 @@ Furthermore, Fish Network provides its Fish Schools with a built-in [Nominee Rid
 
 #### 3.5 Fish Shoals
 
-A Fish Shoal is a **non-capital pooling** community-driven investment club structured as a Series LLC, where:
+Fish Shoals represent a conglomorate of different communities that have mutuals interests. A Fish Shoal is a **non-capital pooling** community-driven investment club structured as a Series LLC, where:
 
 1. Access is gated or monetized by NFTs or traditional SaaS by investors who share an investment sector interest
 2. Members can propose, curate and vet deal flow in their domain of expertise
 3. Community members vote on which members should receive Organizer status
-4. Smart contracts prove membership, enforce compensation transparency, and automate payment distributions
-5. Members can provide services to startups in exchange for compensation
-6. Shoal Leads may manage or adminster multiple Fish Schools
+4. Members can choose to invest directly or pool capital through a traditional SPV
+5. Smart contracts prove membership, enforce compensation transparency, and automate payment distributions
+6. Members can provide services(including deal sharing) to startups in exchange for compensation
+7. Shoal Leads may manage or adminster multiple Fish Schools
 
 #### 3.6 The Fish Network Flywheel
 
