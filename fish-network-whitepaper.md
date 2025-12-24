@@ -194,7 +194,8 @@ Distribution + Portfolio Support Phase:
 * Fish reputation points as rewards for successful picks, building member reputation
 
 **Future Use Case:** Rolling "funds" as investment clubs
-**Future Enhancement:** Quadratic voting, equity-based voting
+
+**Future Enhancement:** Quadratic voting and/or equity-weighted voting
 
 #### 3.3 Fish School Fee Structure
 
@@ -207,7 +208,8 @@ For Fish Schools (Organizers):
 
 * 0% formation fee to create a new Fish School
 * Fish Reputation Points are accrued
-* Fish must vote and collectively agree on any at-cost compensation
+* Fish must vote and collectively agree on any at-cost compensation for Organizers
+* Adminstrative SaaS fees are paid monthly to Fish Network by the Fish School
 
 For Fish Network (Platform):
 
@@ -219,7 +221,8 @@ For Fish Network (Platform):
 For Investors:
 
 * No subscription fees to join Fish Schools
-* No performance fees to Fish Network (only to organizers if applicable)
+* No performance fees paid to Fish Network or Organizers(instead, Organizers participate directly in the upside alongside investors in each Fish School)
+* Adminstrative fees are paid pro-rata by all investors
 * Gas fees only for on-chain transactions (minimal on Base L2)
 
 #### 3.4 Key Differentiators for Fish Schools
