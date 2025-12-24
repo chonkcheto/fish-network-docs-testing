@@ -419,11 +419,11 @@ Fish Agents are designed to increase active participation by reducing friction (
 
 ***
 
-### 5. Future Economic Model
+### 5. Future Economic System of Engineered Liquidity
 
 #### 5.1 Liquidity in Private Markets
 
-In the future, Fish Schools will be able to opt-in(via a governance vote) to deploy their previously locked "Liquidity Premium" to facilitate early liquidity for investors.
+Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market approach to introduce liquidity in traditional assets for retail investors. By sharing and borrowing liquidity across schools, Fish Network is able to introduce distinct tradeoffs, giving individual investors more control and choice over their investment decisions. Without Fish Network, these liquidity options or tradeoffs would otherwise be impossible or impractical at the individual asset or issuer level.
 
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -524,7 +524,7 @@ The Liquidity Premium is a **refundable percentage of contributed capital (defau
   * Fish Schools operating **outside the United States**
   * Fish Schools opting into enhanced or accelerated liquidity features
 
-Liquidity Premium rates may be adjusted over time based on network conditions and are disclosed prior to contribution.
+Liquidity Premium rates may be adjusted over time based on network conditions, and are disclosed prior to contribution. In the future, Fish Schools will be able to opt-in(via a governance vote) to activate their previously locked "Liquidity Premium" to facilitate early liquidity for investors.
 
 ***
 
