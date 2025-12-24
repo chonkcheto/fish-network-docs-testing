@@ -425,7 +425,8 @@ Fish Agents are designed to increase active participation by reducing friction (
 
 Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market approach to introduce liquidity in traditional assets for retail investors. By sharing and borrowing liquidity across schools, Fish Network is able to introduce distinct tradeoffs, giving individual investors more control and choice over their investment decisions. Without Fish Network, these liquidity options or tradeoffs would otherwise be impossible or impractical at the individual asset or issuer level.
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<img width="522" height="379" alt="image" src="https://github.com/user-attachments/assets/382bdeb6-4d5c-4d94-a73d-2132ce632c98" />
+
 
 **FUTURE MODEL: — “50/40/10 Split” (escrow + tokenized investment club equity)**
 
