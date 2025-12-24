@@ -1136,13 +1136,13 @@ Direct Competitors:
 Traditional Crowdfunding Platforms:
 
 * Examples: StartEngine, Republic, Wefunder, SeedInvest
-* Weakness: High fees, poor UX, adverse selection
+* Weaknesses: High fees, poor UX, adverse selection
 * Fish Network advantage: Pre-funded pools, community governance, no listing fees
 
 Syndicate Platforms:
 
 * Examples: AngelList, Assure, Alumni Ventures
-* Weakness: Deal-by-deal friction, lead-dependent model
+* Weaknesses: Deal-by-deal friction, lead-dependent model
 * Fish Network advantage: Standing capital, distributed decision-making
 
 DAO Investment Platforms:
@@ -1156,16 +1156,14 @@ Indirect Competitors:
 Traditional VC Funds:
 
 * Examples: Andreessen Horowitz, Sequoia, Paradigm
-* Weakness: Limited to US Accredited Investors; traditional LP structures give investors little control or rights.
+* Weaknesses: Limited to US Accredited Investors; traditional LP structures give investors little control or rights.
 * Fish Network advantage: complements by enabling emerging managers to serve non-accredited investor market segment
 
 Public Markets:
 
 * Examples: Robinhood, Coinbase retail trading
 * Weaknesses: Onerous reporting requirements; investor focus on profitability instead of scaling innovative public goods
-* Fish Network advantages:
-*    - Leverage hybrid vehicles that mix private and public markets for diversification opportunities
-     - ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
+* Fish Network advantages: Leverage hybrid vehicles that mix private and public markets for diversification opportunities; ability to explore public market liquidity solutions for synthetic private market assets and/or portfolios.
 
 ***
 
