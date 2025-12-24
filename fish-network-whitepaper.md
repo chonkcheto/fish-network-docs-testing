@@ -267,7 +267,7 @@ Fish Shoals represent a conglomorate of different communities that have mutuals 
 4. Members can choose to invest directly or pool capital through a traditional SPV
 5. Smart contracts prove membership, enforce compensation transparency, and automate payment distributions
 6. Members can provide services(including deal sharing) to startups in exchange for compensation
-7. Shoal Leads may manage or adminster multiple Fish Schools
+7. Shoal Leads may represent B2B entities that manage or adminster multiple Fish Schools
 
 #### 3.6 The Fish Network Flywheel
 
@@ -276,8 +276,8 @@ Legal compliance is built-in through proper entity structure and regulatory adhe
 1. Businesses create Fish Shoals to leverage community to increase reach and impact
 2. Shoals help appoint Fish School Organizers who create Fish Schools focused on specific theses or sectors
 4. Investors join schools aligned with their interests and expertise
-5. Startups pitch to relevant Fish Schools, competing for capital
-6. Community votes fund the best opportunities quickly
+5. Startups compete for capital by pitching to relevant Fish Schools and/or Shoals
+6. Community votes to fund the best opportunities quickly
 7. Successful investments create returns and reputation (Fish Points)
 8. Top performers attract more capital and better deal flow
 9. Network effects strengthen as ecosystem grows
