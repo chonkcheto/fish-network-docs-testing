@@ -497,7 +497,7 @@ This approach allows Fish Network to provide earlier or partial liquidity in som
 To bootstrap and maintain shared liquidity, Fish Network may apply a **Liquidity Premium** to capital contributions.
 
 **Definition:**\
-The Liquidity Premium is a **non-refundable percentage of contributed capital (default 5%)** allocated to a protocol-level liquidity contract (the **FishLP Contract**).
+The Liquidity Premium is a **refundable percentage of contributed capital (default 5%)** allocated to a protocol-level liquidity contract (the **FishLP Contract**).
 
 **Purpose:**
 
@@ -509,8 +509,8 @@ The Liquidity Premium is a **non-refundable percentage of contributed capital (d
 **Mechanics:**
 
 * The Liquidity Premium is deducted at contribution
-* Premium capital is routed automatically, on-chain, into the Open General Contract
-* Capital in the Open General Contract is subject to longer lockups and protocol-level governance
+* Premium capital is routed automatically, on-chain, into the FishLP Contract
+* Capital in the FishLP Contract is subject to longer lockups and protocol-level governance
 * Liquidity Premium capital does **not** represent ownership in any single Fish School portfolio
 
 **Applicability:**
@@ -530,7 +530,7 @@ Liquidity Premium rates may be adjusted over time based on network conditions an
 In addition to the Liquidity Premium, Fish Network reserves the right to apply **Liquidity Haircuts** under specific circumstances.
 
 **Definition:**\
-A Liquidity Haircut is a **one-time allocation of capital (anticipated range: 5%–20%)** from Fish Schools to the Open General Contract to reinforce shared liquidity.
+A Liquidity Haircut is a **one-time allocation of capital (anticipated range: 5%–20%)** from Fish Schools to the FishLP Contract to reinforce shared liquidity.
 
 **Potential Triggers:**
 
