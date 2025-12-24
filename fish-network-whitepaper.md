@@ -143,7 +143,7 @@ Fish Network addresses each of these constraints through blockchain infrastructu
 
 ### 3. Fish Network Solution
 
-Fish Network introduces a dual-entity and dual token model to facilitate investor community engagement and social interaction. Fish Schools pool capital together and use Erc-20M functionality to track pro-rata ownership over investments. Fish Shoals do not pool capital for investment, but instead use Erc-721M functionality to monetize or gate-access to additional non-investment, social coordination benefits to its members.
+Fish Network introduces a dual-entity and dual token model to facilitate investor community engagement and social interaction. Fish Schools pool capital together and use Erc-20 functionality to track pro-rata ownership over investments. Fish Shoals do not pool capital for investment, but instead use Erc-721M functionality to monetize or gate-access to additional non-investment, social coordination benefits to its members.
 
 #### 3.1 Core Innovation: Fish Schools
 
