@@ -218,7 +218,7 @@ Unlike traditional crowdfunding platforms, Fish Network does not charge startups
 * 1% platform fee on capital deployed to startups
 * 0.5% secondary market fee on liquidity transactions (future)
 * 1-3% withdrawal fee(future) based on lockup period
-* Premium features for enterprise Fish Schools (analytics, white-label, API access)
+* Premium features for enterprise Fish Shoal (analytics, white-label, API access)
 
 **For Investors:**
 
@@ -256,7 +256,7 @@ Furthermore, Fish Network provides its Fish Schools with a built-in [Nominee Rid
 | Deal-by-deal fundraising | Pre-funded pools            |
 | Uncertain close amounts  | Known capital availability  |
 | High deal friction       | Rapid deployment            |
-| Informal structures      | Legally compliant entities  |
+| Antiquated structures with carried interest | Legally compliant investment clubs  |
 | Leader carries all risk  | Distributed decision-making |
 
 #### 3.5 Fish Shoals
