@@ -641,7 +641,7 @@ Each Fish School has the following set of Organizational Documents:
 
 **Future Enhancement:** Fish Network will also offer Nominee-Managed Fish Schools, which are designed specifically for the needs of Emerging Managers.
 
-The Nominee's Role is to execute investments pursuant to pre-approved mandate. The Nominee acts as fiduciary executor, but has no authority outside the agreed upon mandate.
+The Nominee's role is to execute investments pursuant to pre-approved mandate. The Nominee acts as fiduciary executor, but has no authority outside the agreed upon mandate.
 
 This structure has the following three benefits when compared to a member-managed LLC.
 
