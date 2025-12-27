@@ -53,10 +53,6 @@ Small teams can achieve outsized outcomes when four layers align:
 
 By leveraging best practices in [On-Chain Capital Allocation](https://allobook.gitcoin.co/), we enable investors to form thesis driven communities, and also enable communities to create turn-key investment vehicles. By leveraging a hybrid funding model, we allow the best startups to compete for immediate access to capital. Fish Network is built specifically for compliant capital formation and represents a set of tools for emerging managers to offer their investors a different set of tradeoffs between liquidity, optionality, and diversification.
 
-**Go-to-Market Approach:**
-
-The Fish Network provides a platform to effectively find and capitalize the best startups building on top of Coinbase's L2, the [BASE Network](https://www.base.org/), as well as other similarly situated technologies and investor communities. Leveraging Coinbase's L2 BASE, identity verification, custody, and business accounts services, we are able to provide issuers with a comprehensive software, legal, and operational framework for raising capital.
-
 **Investment Clubs & Fish Schools:** Fish swim in Structure, Coordination, Direction.
 
 _**Fish School**_ - a hybrid crowdfunding entity for investors, with expert-level research, investor community development, and compliance. Each Fish School has a dedicated Fish School Organizer with expertise in a given field. Fish School Organizers offer support and guidance to investor participants who help select the best startups to be funded. Fish Schools store their funds directly with qualified custodians.
@@ -80,6 +76,10 @@ _**Direction:**_ The Fish School Organizers are responsible for orchestrating th
 Altogether, the personal _identity verification, business accounts, and Custody_ features are utilized to reduce the cost of doing business, and will allow new investors to seamlessly connect to our investor ecosystem through a trusted medium.
 
 **What's different:** Capital is pooled up‑front, Diligence is community‑driven, Liquidity is coordinated across organizations, and admin is a streamlined experience handled via KYC/KYB and qualified custody.
+
+**Go-to-Market Approach:**
+
+The Fish Network provides a platform to effectively find and capitalize the best startups building on top of Coinbase's L2, the [BASE Network](https://www.base.org/), as well as other similarly situated technologies and investor communities. Leveraging Coinbase's L2 BASE, identity verification, custody, and business accounts services, we are able to provide issuers with a comprehensive software, legal, and operational framework for raising capital.
 
 ## Roles on Fish Network
 
@@ -111,7 +111,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **Responsibilities:** Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
 * **Incentives:** Platform fees, brand/community expansion, ability to route capital to top‑performing Organizers, LP relations.
 
-### _**Capital Structure(Today):**_ Investors earn reputation points by committing capital into Fish Schools.
+### _**Capital Structure:**_ Investors earn reputation points by committing capital into Fish Schools.
 
 #### Fish Schools — "80/20 Micro‑Fund" (Points + front‑loaded admin fees)
 
