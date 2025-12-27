@@ -36,9 +36,9 @@ Small teams can achieve outsized outcomes when four layers align:
    * $19.6B in crypto VC deals (2024) shows appetite for digital-native solutions.
    * The Base L2 ecosystem alone represents $10+ billion in USDC liquidity seeking productive deployment. Capturing even 1% of this market creates a $100 million platform.
 1. **Fast Network Formation**
-   * On-chain formation + compliance tools enables distributed experts, operators, and backers to form instantly, without relying on legacy hiring pipelines.
+   * On-chain entity formation + compliance tools enables distributed experts, operators, and backers to form instantly, without relying on legacy hiring pipelines.
    * DAOs and on-chain governance create "flash teams" that can form, disband, and reform around high-value opportunities.
-   * Fish Network provides streamlined access to institutional-grade custody; on-chain identity solutions offer a lower cost alternative to traditional KYC.
+   * Streamlined access to institutional-grade custody; on-chain identity solutions offer a lower cost alternative to traditional KYC.
 2. **More Effective Capital Raising**
    * Traditional fundraising is fragmented and slow. Issuers burn cycles navigating investor discovery, compliance paperwork, and low-signal conversations.
    * A networked, AI enabled capital formation layer allows retail investors and emerging managers to plug directly into opportunities, transact transparently, and exit with liquidity.
