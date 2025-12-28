@@ -152,9 +152,19 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven investment clubs ("Fish Schools") into AI‑enabled, tokenized micro‑funds with future shared liquidity. We introduce a minimum 1-year lockup structure for investors in "venture fund" Fish Schools, which is typically 7-10 years for investors in a "traditional" venture fund. This enables emerging managers to move at the speed of technology; raising and deploying funds fully on-chain, while giving investors optionality to re-allocate quickly.
 
-#### Future Fish School Structure — "50/40/10 Split" (tokenized investment club equity + escrow)
+#### Option A Fish School Structure — "50/40/10 Split" (venture club)
+
+Investors overcollateralize with USDC to maintain liquidity optionality after initial results.
 
 * **50%** to escrow (USDC) to accrue Fish Points and interest to enable future shared liquidity for Fish Schools.
+* **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
+* **10%** to school treasury for ops, insurance, admin fees, etc.
+
+#### Option B Fish School Structure — "50/40/10 Split" (hybrid venture + liquid club)
+
+Fish School holds a liquid reserve asset or an actively managed portfolio.
+
+* **50%** to Fish School custodial account to be deployed into liquid assets
 * **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
 * **10%** to school treasury for ops, insurance, admin fees, etc.
   
