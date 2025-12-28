@@ -439,7 +439,7 @@ Fish Network introduces a comprehensive, multi-faceted, and phased go-to-market 
 
 **Tradeoff:** Enables 1:1 withdrawal functionality, but more capital is tied up in stablecoins.
 
-**Liquidity:** Shared liquidity layer enables early redemptions (subject to fees/lockups per school)
+**Liquidity:** Shared liquidity layer enables early redemptions; minimum lockup period is 3 weeks up to 1 year(subject to fees/lockups per school).
 
 #### 5.2 Capital Flow
 
