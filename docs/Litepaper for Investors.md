@@ -130,9 +130,9 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 ## Use Cases
 
-* **Emerging Manager Bootstrapping(Fish School Organizer):** launch a school for a focused thesis; convert community into deployable, semi‑liquid capital.
-* **VC Platform(Fish Shoal Leader):** multi‑manager program, LP engagement, &lt;$25k investor activation, follow‑on syndication.
-* **B2B Ecosystem Build Out:** corporate or protocol‑aligned schools to fund partner ecosystems.
+* **Emerging Manager Bootstrapping(Fish School Organizer):** Launch a school for a focused thesis; convert community into deployable, semi‑liquid capital.
+* **VC Platform(Fish Shoal Leader):** Multi‑manager program, LP engagement, &lt;$25k investor activation, follow‑on syndication.
+* **B2B Ecosystem Build Out:** Corporate or protocol‑aligned schools to fund partner ecosystems.
 * **Synthetic Exposure:** International investors can purchase tokenized investment club equity; Fish School equity as DeFi "lego".
 
 ## Tech Stack
