@@ -73,7 +73,7 @@ Each Fish School has an escrow + qualified custody account created by the organi
 
 _**Direction:**_ The Fish School Organizers are responsible for orchestrating the submission, review, and vetting processes for the best-qualified startups competing for funds. Organizers provide the initial thesis thought leadership, and continued support in distributing the funds to the startup and future redemption of shares, USDC, and FISH points to the investors; in exchange for an agreed upon commission from the Fish School and/or Fish Network Treasury.
 
-**What's different:** Capital is pooled up‑front, Diligence is community‑driven, Liquidity is coordinated across organizations, and admin is a streamlined experience handled via KYC/KYB and qualified custody.
+**What's different:** Capital is pooled up‑front, diligence is community‑driven, liquidity is coordinated across organizations; admin is a streamlined experience handled via KYC/KYB and qualified custody.
 
 **Go-to-Market Approach:**
 
