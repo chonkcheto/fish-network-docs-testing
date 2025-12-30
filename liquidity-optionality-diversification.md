@@ -8,7 +8,3 @@
 * Multiple liquidity structures (current 80/20; future 50/40/10).
 * Shorter lockups, smoother redemptions.
 * How optionality strengthens investor confidence.
-
-# Test Section
-
-Foobar
