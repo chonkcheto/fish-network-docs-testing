@@ -183,8 +183,6 @@ Referring to FIG. 4, Fish Schools may originate investments at ideation stages, 
 
 <figure><img src=".gitbook/assets/Venture ecosystem b2b example.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/Screenshot - 2025-12-17T191844.761.png" alt=""><figcaption></figcaption></figure>
-
 Referring to FIG. 5, Fish Schools may be created as cohorts or series within institutional or ecosystem partnerships (e.g., incubators, accelerators, universities), enabling multiple series to invest in different deals, coordinate pro-rata rights across cohorts, and form SPVs for consolidated deployments while preserving member-level voting and beneficial ownership.
 
 ***
