@@ -678,7 +678,7 @@ Investment Limits (Non-Accredited): Varies State by State in the USA.
 
 **6.2.2: Regulation Crowdfunding (Reg CF):**
 
-Fish Schools raise capital under SEC Regulation Crowdfunding, enabling:
+Fish Schoals enable issuers to raise capital directly from non-accredited investors under SEC Regulation Crowdfunding, enabling:
 
 * $1.07 million maximum per 12-month period per Fish School(not subject to audit)
 * $5 million maximum per 12-month period per Fish School(subject to audit)
