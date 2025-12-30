@@ -674,7 +674,7 @@ This structure has the following three benefits when compared to a member-manage
 * Must have 99 members or less
   * **Fish Network:** Fish School smart contracts are limited to a 99 member maximum.
 
-Investment and Member Limits(Non-Accredited is allowed): Varies State by State in the USA.
+Investment and Member Limits: Varies State by State in the USA. Non-accredited investors are allowed.
 
 **6.2.2: Regulation Crowdfunding (Reg CF):**
 
