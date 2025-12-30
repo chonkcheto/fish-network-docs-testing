@@ -1,12 +1,10 @@
-**//Review it in the patent repo - 12-30-2025
-**
-
-
 ---
 description: >-
   Inventors: Assignee: Fish Network, Inc. (Delaware, USA) Filing Jurisdiction:
   USPTO – Provisional
 ---
+
+**Review updated version in the patent repo - 12-30-2025**
 
 # System and Method for Blockchain-Based Community Investment Pools
 
