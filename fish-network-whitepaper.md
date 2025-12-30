@@ -626,7 +626,8 @@ This structure simplifies administrative execution while preserving investor vot
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+![administrative execution](../images/github-update.png)
+
 
 Each Fish School operates as a Series LLC with the following characteristics:
 
