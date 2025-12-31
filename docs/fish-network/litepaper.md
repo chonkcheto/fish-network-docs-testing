@@ -12,7 +12,7 @@ AI-driven product teams and crypto protocols are positioned to capitalize on thi
 
 Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
-![Fish Network Overview](static/img/gitbook/flywheel-2.png)
+![Fish Network Overview](static/flywheel-2.png)
 
 ## **Why Current Infrastructure Falls Short In this Era**
 
@@ -48,7 +48,7 @@ Small teams can achieve outsized outcomes when four layers align:
    * Reg CF and investment club structure provides a compliant path for community capital formation.
    * Potential for change in US accreditation requirements would streamline retail participation in private markets.
 
-![Dashboard Preview](static/img/gitbook/flywheel-2.png)
+![Dashboard Preview](static/flywheel-2.png)
 
 ## **The Fish Network Solution**
 
