@@ -25,9 +25,9 @@ Most investment clubs are member-driven, invite-only, and operated democraticall
 
 Since the early days of digital assets, investors have leaned on one-another to further their own understanding of this nascent, fast-evolving asset class. Furthermore, with the integration of AI, the rate of technology innovation has increased by orders of magnitude; making community driven investing and innovation even more attractive and potentially lucrative, to those with an entrepreneurial bug.
 
-Over the years, there have been many attempts at creating community driven investing organizations, with very few success stories. As a first mover in 2017-2018, MetaCartel4 set the gold standard for what a decentralized venture organization could look like, and also gave birth to the first(and only?) Fund of Funds focused on investment DAOs, Hydra Ventures5. I’d also be remiss not to mention the 2,800 lb gorillas in the room, OrangeDAO6, which raised $80M7 in 2022, and GCR8.<br>
+Over the years, there have been many attempts at creating community driven investing organizations, with very few success stories. As a first mover in 2017-2018, MetaCartel4 set the gold standard for what a decentralized venture organization could look like, and also gave birth to the first(and only?) Fund of Funds focused on investment DAOs, Hydra Ventures5. I'd also be remiss not to mention the 2,800 lb gorillas in the room, OrangeDAO6, which raised $80M7 in 2022, and GCR8.
 
-Besides a small handful of standouts previously mentioned, the Venture DAO space has largely suffered due the following reasons:<br>
+Besides a small handful of standouts previously mentioned, the Venture DAO space has largely suffered due the following reasons:
 
 * **Weakening of the overall DAO narrative in the crypto space**: Community driven businesses were forced to shift to sustainable, cash flowing business models.
 * **Lack of reliable software infrastructure:** With [Syndicate.io](https://syndicateio.gitbook.io/en) exiting the space in 2023.
@@ -96,13 +96,13 @@ Iron Key is preparing to launch its native token, backed by the profit interests
 
 #### The Community
 
-Iron Key’s community brings together five core personas:<br>
+Iron Key's community brings together five core personas:
 
 * Emerging Managers: Build your own investment club alongside Iron Key Capital.
 * Investors: Expand deal flow and build your personal angel portfolio.
 * Professionals: Write your first angel check, sharpen diligence skills, and build a venture track record.
 * Advisors & Mentors: Help the next generation of founders and investors succeed.
-* Founders: Get real-time feedback and advisory on your pitch, GTM strategy, and fundraising.<br>
+* Founders: Get real-time feedback and advisory on your pitch, GTM strategy, and fundraising.
 
 <figure><img src="/img/gitbook/Screenshot%20-%202025-12-16T212241.514.png" alt="" /><figcaption></figcaption></figure>
 
@@ -125,9 +125,6 @@ If you’d like to learn more about joining Iron Key’s investment club, please
 
 If you’d like to learn more about building your own investment club, please [contact us here](https://airtable.com/appfCDlkorF5FL3VZ/pagxOM52o8KoS5GkN/form).
 
-\
-\
-<br>
 
 _Disclaimer: This thesis is intended solely for informational and educational purposes and does not constitute an offer, solicitation, or recommendation to buy or sell any securities, financial products, or instruments, nor should it be construed as investment advice, legal advice, tax advice, or a guarantee of future performance._
 
@@ -188,8 +185,4 @@ A Service DAO is a decentralized, community-driven organization that provides sp
 
 This model creates stronger alignment between contributors and clients by promoting transparency, ownership, and shared incentives. As outlined in [Hydra’s whitepaper](https://www.hydraventures.xyz/podcast/thing3) and the [Thing3 initiative](https://www.hydraventures.xyz/podcast/thing3), Service DAOs are becoming a core part of the Web3 ecosystem by supporting the growth of Venture DAOs and decentralized investment communities.
 
-\
-\
-<br>
 
-<br>
