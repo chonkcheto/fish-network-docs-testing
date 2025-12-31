@@ -66,7 +66,10 @@ const config = {
   ],
 
   plugins: [
-    'docusaurus-plugin-llms'
+    'docusaurus-plugin-llms', 
+    {
+      ignoreFiles: ['iron-key/*']
+    }
   ],
 
   themeConfig:
