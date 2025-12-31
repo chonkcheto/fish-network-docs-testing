@@ -99,7 +99,7 @@ const config = {
                 to: '/fish-network/introduction-to-investment-clubs',
               },
               {
-                label: 'Fish Network Overview',
+                label: 'Fish Network Litepaper',
                 to: '/fish-network/investor-litepaper',
               },
               {

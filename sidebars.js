@@ -17,25 +17,18 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'fish-network/introduction-to-investment-clubs',
-      label: 'Introduction to Investment Clubs',
+      id: 'fish-network/investor-litepaper',
+      label: 'Fish Network Litepaper',
     },
     {
-      type: 'category',
-      label: 'The Solution',
-      collapsed: false,
-      items: [
-        {
-          type: 'doc',
-          id: 'fish-network/investor-litepaper',
-          label: 'Fish Network Overview',
-        },
-        {
-          type: 'doc',
-          id: 'fish-network/fish-network-whitepaper',
-          label: 'Whitepaper',
-        },
-      ],
+      type: 'doc',
+      id: 'fish-network/fish-network-whitepaper',
+      label: 'Whitepaper',
+    },
+    {
+      type: 'doc',
+      id: 'fish-network/introduction-to-investment-clubs',
+      label: 'Introduction to Investment Clubs',
     },
     {
       type: 'category',
