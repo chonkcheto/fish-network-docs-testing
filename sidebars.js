@@ -30,28 +30,6 @@ const sidebars = {
       id: 'fish-network/introduction-to-investment-clubs',
       label: 'Introduction to Investment Clubs',
     },
-    {
-      type: 'category',
-      label: 'Technical',
-      collapsed: true,
-      items: [
-        {
-          type: 'doc',
-          id: 'fish-network/smart-contracts-and-tokenomics',
-          label: 'Smart Contracts & Tokenomics',
-        },
-        {
-          type: 'doc',
-          id: 'fish-network/system-and-method-for-blockchain-based-community-investment-pools',
-          label: 'System Architecture & Patent',
-        },
-        {
-          type: 'doc',
-          id: 'fish-network/safe-nominee-delegate-rider',
-          label: 'SAFE Nominee Delegate Rider',
-        },
-      ],
-    },
   ],
 };
 

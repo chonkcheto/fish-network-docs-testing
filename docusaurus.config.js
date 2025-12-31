@@ -53,6 +53,8 @@ const config = {
           exclude: [
             '**/iron-key/**',
             '**/archived/**',
+            '**/smart-contracts-and-tokenomics.md',
+            '**/safe-nominee-delegate-rider.md',
           ],
         },
         blog: false, // Disable the blog plugin
