@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Litepaper',
-                to: '/fish-network/investor-litepaper',
+                to: '/fish-network/litepaper',
               },
               {
                 label: 'Whitepaper',

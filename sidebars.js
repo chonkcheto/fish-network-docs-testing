@@ -17,7 +17,7 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'doc',
-      id: 'fish-network/investor-litepaper',
+      id: 'fish-network/litepaper',
       label: 'Litepaper',
     },
     {
