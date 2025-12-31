@@ -65,6 +65,10 @@ const config = {
     ],
   ],
 
+  plugins: [
+    'docusaurus-plugin-llms'
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
