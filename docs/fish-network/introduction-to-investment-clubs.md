@@ -13,7 +13,7 @@ In summary, there are two types of investment clubs that the SEC recognizes, and
   * Investors in these types of clubs directly make their own capital decisions, and typically join the club for access to higher quality investment opportunities. Investors maintain full decision control over their capital.
   * Obvious Web3 Use Case - NFTs generally make sense to gate access to the community.
 
-Most investment clubs are member-driven, invite-only, and operated democratically. In the U.S., they’re generally unregulated by the SEC if they stay under 100 members, don’t charge carried interest, and require all members to participate in decision-making. Investment clubs are hard to set up, legally ambiguous, and built with either legacy systems or untested open source code.<br>
+Most investment clubs are member-driven, invite-only, and operated democratically. In the U.S., they're generally unregulated by the SEC if they stay under 100 members, don't charge carried interest, and require all members to participate in decision-making. Investment clubs are hard to set up, legally ambiguous, and built with either legacy systems or untested open source code.
 
 * **Access is gated:** Venture opportunities are often reserved for insiders. Emerging investors and operators are locked out.
 * **Structures are outdated:** Most emerging managers use traditional SPVs which are slow, costly, and not designed for technology-native communities.
@@ -104,7 +104,7 @@ Iron Key’s community brings together five core personas:<br>
 * Advisors & Mentors: Help the next generation of founders and investors succeed.
 * Founders: Get real-time feedback and advisory on your pitch, GTM strategy, and fundraising.<br>
 
-<figure><img src="/img/gitbook/Screenshot - 2025-12-16T212241.514.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/Screenshot%20-%202025-12-16T212241.514.png" alt="" /><figcaption></figcaption></figure>
 
 ### &#x20;Conclusion
 

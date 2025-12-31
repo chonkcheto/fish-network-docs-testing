@@ -86,7 +86,7 @@ Alternative Investments Market:
 * Global alternative investments: $13.7 trillion AUM (2024)
 * Private equity: $5.8 trillion
 * Venture capital: $1.1 trillion
-* Target: <1% of VC market = $11 billion TAM
+* Target: &lt;1% of VC market = $11 billion TAM
 
 Crowdfunding Market:
 
@@ -624,7 +624,7 @@ The Nominee Delegate is obligated to:
 
 This structure simplifies administrative execution while preserving investor voting rights and accountability, distinguishing the system from traditional SPVs and CrowdSAFE-based structures that centralize control.
 
-<figure><img src="/img/gitbook/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/img/gitbook/image%20(1).png" alt="" /><figcaption></figcaption></figure>
 
 ![administrative execution](/img/gitbook/github-update.png)
 
@@ -686,7 +686,7 @@ A Fish Shoal is a **non-capital pooling** investment club that allow issuers to 
 * Form C filing with SEC before offering begins
 * Ongoing reporting requirements (annual financials, material changes)
 * Non-accredited investors can participate subject to investment limits
-  * If annual income or net worth < $124,000: Greater of $2,500 or 5% of lesser amount
+  * If annual income or net worth &lt; $124,000: Greater of $2,500 or 5% of lesser amount
   * If annual income and net worth ≥ $124,000: 10% of lesser amount, up to $124,000
 
 **6.2.3 :** **Regulation D:** Accredited Investor verification for SPVs only.
@@ -1336,5 +1336,3 @@ Documentation: [docs.fishnetwork.co](https://docs.fishnetwork.co)
 ***
 
 © 2025 Fish Network. All Rights Reserved.
-
-<br>
