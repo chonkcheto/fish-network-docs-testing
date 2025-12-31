@@ -18,7 +18,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'fish-network/investor-litepaper',
-      label: 'Fish Network Litepaper',
+      label: 'Litepaper',
     },
     {
       type: 'doc',
