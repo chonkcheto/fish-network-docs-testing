@@ -12,7 +12,7 @@ AI-driven product teams and crypto protocols are positioned to capitalize on thi
 
 Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
-![Fish Network Flywheel](../static/fish-network-flywheel.png)
+![Fish Network Flywheel](../../static/flywheel-2.png)
 
 ### Core Structure
 Outer 80/20: 80% targets growth (venture + liquid), 20% defensive reserves for stability.
@@ -60,7 +60,7 @@ Small teams can achieve outsized outcomes when four layers align:
    * Reg CF and investment club structure provides a compliant path for community capital formation.
    * Potential for change in US accreditation requirements would streamline retail participation in private markets.
 
-![Dashboard Previewl](../static/fish-network-flywheel.png)
+![Dashboard Previewl](../../static/flywheel-2.png)
 
 ## **The Fish Network Solution**
 
@@ -213,6 +213,6 @@ The Fish Network flips the syndicate & crowdfunding model on its head. Instead o
 
 The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
 
-![Fish Network Diagram](../static/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
+![Fish Network Diagram](../../static/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
 
 Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to deploy behind trusted organizers, trust their gut, or leverage the wisdom of the crowd through Fish Schools. Fish Network creates a competitive advantage for emerging managers, all while providing much needed capital support to the best early stage founders.
