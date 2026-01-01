@@ -12,7 +12,7 @@ AI-driven product teams and crypto protocols are positioned to capitalize on thi
 
 Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
-![Fish Network Flywheel](../../static/flywheel-2.png)
+![Flywheel-2](../../static/flywheel-2.png)
 
 ### Core Structure
 Outer 80/20: 80% targets growth (venture + liquid), 20% defensive reserves for stability.
