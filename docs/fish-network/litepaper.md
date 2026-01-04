@@ -85,7 +85,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 ### **🎣** Fish School Organizer (Emerging Manager / Solo GP)
 
 * **Who:** Vetted lead for a given school / thesis.
-* **Responsibilities:** Form & operate Series LLC, provide preliminary diligence on deals, run voting processes, interface with custody & compliance partners, coordinate profit distributions to investors.
+* **Responsibilities:** Form & operate individual Series LLC, provide preliminary diligence on deals, run voting processes, interface with custody & compliance partners, coordinate profit distributions to investors.
 * **Incentives:** Front‑loaded administrative fee; potential performance‑aligned incentives where permitted (e.g., bounties from treasury / Schoal); reputation accrual.
 * **Requirements:** Diligence standards, ongoing reporting to Fish Network, adherence to investment‑club constraints.
 
@@ -104,8 +104,8 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 ### **🐠** Shoal Leader (VC or B2B Entity)
 
-* **Who:** Multi‑manager admin (a "Shoal") coordinating multiple schools toward an outcome (e.g., sector, region, ecosystem).
-* **Responsibilities:** Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
+* **Who:** Multi‑manager admin (a "Shoal Lead") coordinating multiple schools toward an outcome (e.g., sector, region, ecosystem).
+* **Responsibilities:** Form and operate Fish Schools, Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
 * **Incentives:** Platform fees, brand/community expansion, ability to route capital to top‑performing Organizers, effcient LP relations.
 
 ### _**Capital Structure:**_ Investors earn reputation points by committing capital into Fish Schools.
@@ -159,6 +159,8 @@ Investors overcollateralize with USDC to maintain liquidity optionality after in
 * **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
 * **10%** to school treasury for ops, insurance, admin fees, etc.
 
+*available for non-US Residents only*
+
 #### Option B -  Fish School Structure — "50/40/10 Split" (hybrid venture + liquid club)
 
 Fish School holds a liquid reserve asset or an actively managed portfolio.
@@ -166,6 +168,8 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 * **50%** to Fish School custodial account to be deployed into liquid assets
 * **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
 * **10%** to school treasury for ops, insurance, admin fees, etc.
+
+**Introducing Fish Shoals:** Instead of pooling capital upfront, Fish Shoals enable investors to pool knowledge, expertise, and information while they invest individually. These investment clubs help unlock a new ecosystem of angel investors who value active governance over passive speculation and long term alignment over short-term liquidity.
   
 ### Fees & Liquidity
 
