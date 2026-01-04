@@ -86,7 +86,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 ### **🎣** Fish School Organizer (Emerging Manager / Solo GP)
 
-* **Who:** Vetted lead for a given school / thesis.
+* **Who:** Vetted lead for a given investment club.
 * **Responsibilities:** Form & operate individual Series LLC, provide preliminary diligence on deals, run voting processes, interface with custody & compliance partners, coordinate profit distributions to investors.
 * **Incentives:** Front‑loaded administrative fee; potential performance‑aligned incentives where permitted (e.g., bounties from treasury / Shoal); reputation and track record accrual.
 * **Requirements:** Diligence standards, ongoing reporting to Fish Network, adherence to investment‑club constraints.
@@ -108,7 +108,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 * **Who:** Multi‑manager admin (a "Shoal Lead") coordinating multiple schools toward an outcome (e.g., sector, region, ecosystem).
 * **Responsibilities:** Form and operate Fish Schools, Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
-* **Incentives:** Platform fees, brand/community expansion, ability to route capital to top‑performing Organizers, effcient LP relations.
+* **Incentives:** Shoal membership fees, brand/community expansion, ability to route capital to top‑performing Organizers, effcient LP relations.
 
 ### _**Capital Structure:**_ Investors earn reputation points by committing capital into Fish Schools.
 
