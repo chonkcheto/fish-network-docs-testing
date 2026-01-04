@@ -180,13 +180,17 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 
 *The **"50/40/10 Split"** Fish School structure is a **future, optional liquidity model under exploration only** and **is not active or available in the live product today.** Any references to 50/40/10 should be read as roadmap concepts, subject to further legal, technical, and market validation.*
 
+## Market Positioning
+
+The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
+
 ## Risks & Mitigations
 
 * **Regulatory clarity:** Risk: Viewed as unsophisticated by market participants(i.e. perceived as “another” crowdfunding platform). Mitigation: Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
 * **Liquidity bootstrapping:** Risk: Initial Fish Schools raising sufficient capital. Mitigation: target professional emerging managers with rigorous Organizer vetting.
 * **Manager quality:** Risk: Unsophisticated investors lead Fish Schools and Shoals, leading to investor churn. Mitigation: Fish Network conducts rigorous Organizer vetting process; VC Shoal Leads recruit and QA organizers directly.
 
-## **Market Growth Vectors:**
+## **Market Growth Vectors**
 
 The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital. Once the retail equity crowdfunding market is captured, Fish Network can expand in the following avenues.
 
@@ -202,7 +206,5 @@ The Fish Network is poised to unlock tremendous value for the individual investo
 ## Conclusion
 
 The Fish Network flips the syndicate & crowdfunding model on its head. Instead of chasing investors for each deal, when most of them drop out anyway, we introduce a new capital deployment model, where the capital has already been locked in smart contract escrow. Rather than using a traditional SPV, we introduce the concept of a Fish School, where any community or business can launch an investment club to better align their investor constituents.
-
-The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
 
 Inside a Fish Shoal, investors can easily commit USDC directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(i.e. Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to deploy behind trusted organizers, trust their gut, or leverage the wisdom of the crowd through Fish Schools. Fish Network creates a competitive advantage for emerging managers, all while orchestrating the infrastructure needed to provide capital support to the best early stage founders.
