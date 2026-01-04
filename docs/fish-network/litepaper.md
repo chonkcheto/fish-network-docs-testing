@@ -12,20 +12,6 @@ AI-driven product teams and crypto protocols are positioned to capitalize on thi
 
 Introducing Fish Network. A platform where you can scale entities with almost no operational drag, and investors can exit or reallocate with confidence. Launch, fund, and scale an investment community or venture studio, all while cultivating investor trust and reputation through transparent on-chain systems.
 
-![Flywheel-2](../../static/flywheel-2.png)
-
-### Core Structure
-Outer 80/20: 80% targets growth (venture + liquid), 20% defensive reserves for stability.
-Inner 50/40/10 on 80%: 50% (40% total) to illiquid venture backing startups; 40% (32% total) traded/held liquid by organizer; 10% (8% total) for ops-ex.
-Hybrid Mechanics: Blends private venture illiquidity with public market liquidity, enabling cross-school sharing via Fish Network.
-
-### Capital Deployment
-Draws occur pro-rata from members' commitments as startup deals materialize, using deal-by-deal calls (2-4 tranches over lockup) with 10-30 days' notice—ideal for opportunistic Fish School sourcing over rigid pro-rata schedules. Zero-sum rules prevent dilution; organizer trading offsets venture delays.
-
-### Governance & Safeguards
-Club contract mandates KYC-gated flows, periodically rebalancing, and penalties (1-2%) for defaults, with liquidity premiums buffering risks like market volatility in the liquid slice. This retail-accessible setup leverages networked "schools" for superior capital velocity in alternatives.
-
-
 ## **Why Current Infrastructure Falls Short In this Era**
 
 Traditional crowdfunding portals are symptomatic of the old model:
@@ -120,7 +106,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 
 * **Who:** Multi‑manager admin (a "Shoal") coordinating multiple schools toward an outcome (e.g., sector, region, ecosystem).
 * **Responsibilities:** Recruit/coach Organizers, ensure compliance quality bar, provide shared services (deal flow, BD, ops), run funnel‑wide programs.
-* **Incentives:** Platform fees, brand/community expansion, ability to route capital to top‑performing Organizers, LP relations.
+* **Incentives:** Platform fees, brand/community expansion, ability to route capital to top‑performing Organizers, effcient LP relations.
 
 ### _**Capital Structure:**_ Investors earn reputation points by committing capital into Fish Schools.
 
@@ -215,4 +201,4 @@ The investment model for Fish Schools is inherently sector agnostic. Investment 
 
 ![Fish Network Diagram](../../static/Generated%20Image%20September%2008,%202025%20-%202_18AM.png)
 
-Investors can easily commit USDC and ETH directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to deploy behind trusted organizers, trust their gut, or leverage the wisdom of the crowd through Fish Schools. Fish Network creates a competitive advantage for emerging managers, all while providing much needed capital support to the best early stage founders.
+Inside a Fish Shoal, investors can easily commit USDC directly to the startups that are presenting with the click of a button. However, in order to receive reputation points(i.e. Fish Points), contributors must invest into the Fish School beforehand. This gives investors the optionality to deploy behind trusted organizers, trust their gut, or leverage the wisdom of the crowd through Fish Schools. Fish Network creates a competitive advantage for emerging managers, all while orchestrating the infrastructure needed to provide capital support to the best early stage founders.
