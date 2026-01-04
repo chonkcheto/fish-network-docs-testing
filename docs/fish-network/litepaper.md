@@ -157,7 +157,7 @@ Fish Network is a compliant, semi‑liquid platform that turns thesis‑driven i
 
 Investors overcollateralize with USDC to maintain liquidity optionality after initial allocations.
 
-* **50%** to accrue Fish Points and interest to enable future shared liquidity for Fish Schools.
+* **50%** to USDC; accruing Fish Points and interest to enable future shared liquidity for Fish Schools.
 * **40%** allocated to escrow for mandatory 21‑day voting window until deployed to voted‑in startups.
 * **10%** to school treasury for ops, insurance, admin fees, etc.
 
@@ -180,15 +180,18 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 
 ## Risks & Mitigations
 
-* **Regulatory clarity:** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
-* **Liquidity bootstrapping:** Initial Fish Schools raising sufficient capital; target professional emerging managers
-* **Manager quality:** Rigorous Organizer vetting; Shoal Leader QA and shared services.
+* **Regulatory clarity:** Risk: Viewed as unsophisticated by market participants(i.e. perceived as “another” crowdfunding platform).
+* **Mitigation** Pre‑vetted club legal docs; escalation path via registered broker-dealers and B2B partnerships. Compliance powered via established crypto infra(qualified custody, KYC/KYB identity primitives).
+* **Liquidity bootstrapping:** Risk: Initial Fish Schools raising sufficient capital
+* **Mitigation** target professional emerging managers with rigorous Organizer vetting.
+* **Manager quality:** Risk: Unsophisticated investors lead Fish Schools and Shoals, leading to investor churn
+* **Mitigation** Fish Network conducts rigorous Organizer vetting process; VC Shoal Leads recruit and QA organizers directly.
 
 ## **Market Growth Vectors:**
 
-The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital.
+The Fish Network is poised to unlock tremendous value for the individual investor by leveling the playing field in venture capital. Once the retail equity crowdfunding market is captured, Fish Network can expand in the following avenues.
 
-**1) Reg A+.** Once the crowdfunding market is captured, we have the ability to expand into Reg A+ offerings above $5M.
+**1) Reg A+.** ability to move up market into Reg A+ offerings above $5M.
 
 **2) New Asset Classes:** Initially we are targeting the venture capital market; this model can be extended to any illiquid asset class(Alternatives including Art, Real Estate, etc) where investors may want liquidity optionality.
 
