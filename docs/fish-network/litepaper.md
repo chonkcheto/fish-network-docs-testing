@@ -147,7 +147,7 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **Entity:** Series LLC per school (Investment Club model) operating under SEC investment‑club guidance.
 * **Identity:** KYC (Fish) / KYB (School) via integrated identity (e.g., cb.id / ENS).
 * **Custody & Escrow:** Qualified custodians (e.g., Coinbase Prime / Kraken) with routing contracts and 21‑day escrow periods.
-* **Notes:** Avoid GP/advisor roles by relying on club voting; maintain records for audits and redemptions.
+* **Notes:** Avoid GP/advisor classification by relying on club voting; maintain records for audits and redemptions.
 
 ## Product Roadmap
 
