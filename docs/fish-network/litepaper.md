@@ -182,7 +182,7 @@ Fish School holds a liquid reserve asset or an actively managed portfolio.
 
 ## Market Positioning
 
-The investment model for Fish Schools is inherently sector agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms.
+The investment model for Fish Schools is inherently sector and asset agnostic. Investment Clubs can be leveraged by investors with little to no crypto risk exposure, utilizing USDC or fiat to facilitate liquidity. With various Fish Schools investing into different verticals, the end state becomes an open crowdfunding platform like [Start Engine](https://www.startengine.com/), but the backend of the platform is delivered leveraging smart contracts, voting processes, and transparent reward mechanisms. Fish Network reduces operational complexity for emerging managers, all while driving down operating costs for compliant retail capital formation.
 
 ## Risks & Mitigations
 
