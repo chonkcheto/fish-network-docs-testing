@@ -136,6 +136,16 @@ The Fish Network hosts a platform of Fish Schools, organized by vetted, qualifie
 * **B2B Ecosystem Build Out:** Corporate or protocol‑aligned schools to fund partner ecosystems.
 * **Synthetic Exposure:** International investors can purchase tokenized investment club equity; Fish School equity as DeFi "lego".
 
+## Business Model
+
+Fish Network charges $500 - $5,0000 monthly, on annual SaaS contracts.
+
+<img width="626" height="398" alt="image" src="https://github.com/user-attachments/assets/4a09fb83-49b9-4960-bd83-567af340a353" />
+
+@danish can you put a proper image here? 
+
+https://docs.google.com/document/d/1GbUm385nsEufjk9pV4nD1wt7QAsrZDSMzkhOTxd5LlU/edit?tab=t.0
+
 ## Tech Stack
 
 * **Base L2** for on‑chain mechanics, USDC accessibility, and identity integrations.
