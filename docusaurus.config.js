@@ -7,6 +7,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
+
 const config = {
   title: 'Fish Network',
   tagline: 'Driving the Billion Dollar Small Team Era',
@@ -63,6 +64,19 @@ const config = {
         },
       }),
     ],
+  ],
+
+  plugins: [
+    [
+      // plugin to generate llms.txt so gitmcp works
+      'docusaurus-plugin-llms', 
+      {
+        docsDir: 'docs',
+        ignoreFiles: ['**/iron-key/**'],
+        title: "Fish Network documentation",
+        description: "Reference documentation for Fish Network platform and business model.",
+      }
+    ]
   ],
 
   themeConfig:
